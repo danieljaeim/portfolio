@@ -1,0 +1,15 @@
+.overlay-box {
+    position: relative;
+    border: 4px black solid;
+}
+
+.overlay-box:hover {
+    opacity: .1;
+}
+
+.description-box {
+    position: absolute;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
